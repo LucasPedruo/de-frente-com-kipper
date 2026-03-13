@@ -1,0 +1,287 @@
+00;00;00;08 - 00;00;04;06
+Speaker 1
+
+00;00;04;08 - 00;00;31;28
+Speaker 2
+De voz e fala. Primeiramente, desculpa os desencontros. O meu é meio aquele do canal, ele é muito cheio de spam porque o pessoal pegou meu e-mail, fica jogando nazista e tem um monte de Mark que fica mandando. Eu perco as coisas. Perder algo de verdade. Mas eu medi, mas não foi nada pessoal. Eu realmente tive problemas com meus emails, meus WhatsApp mobile que está todo cheio de fanfic, coisa difícil de controlar as mensagens.
+
+00;00;32;01 - 00;00;42;07
+Speaker 1
+Eu que agradeço pela oportunidade. Imagino que deva ser cheio de compromissos só de tirar esse tempinho pra dar esse auxílio para a gente. Show de bola!
+
+00;00;42;09 - 00;00;53;27
+Speaker 2
+Imagina como fico feliz de ajudar ela. Me diga então o que que o que eu posso ajudar? O que eu posso falar? Enfim, todo o povo.
+
+00;00;54;01 - 00;01;18;05
+Speaker 1
+Então, como eu falei com você lá pelo email e eu tenho essa mania de querer saber o que as pessoas que que eu me admiram, que eu ache que eu me inspiro e como elas chegaram até onde elas chegaram. Então, constantemente eu tento entrar em contato com a galera e você foi uma das poucas que me respondeu e eu separei algumas perguntinhas aqui.
+
+00;01;18;05 - 00;01;55;01
+Speaker 1
+Se foi muito inconveniente você me responder se pode ficar a vontade para falar e se você sabe que eu deixei ele travado em algum lugar aqui. Não. Basicamente, eu vou ouvir alguns vídeos seus sobre a sua trajetória com Hannah Baker. Foi um dos mais completos. Ele que eu achei e é uma dessas conversas ali com ele. Você disse que entrou na área de através da panelinha, na época da panelinha e tal, e foi mais ou mais ou menos, Não é porque eu comecei também.
+
+00;01;55;01 - 00;02;15;01
+Speaker 1
+Na verdade eu comecei há uns bons anos atrás. Sabe o que eu tive sorte de parar por causa do quartel e continuar em continuidade agora e totalmente. Há dois anos na área. Só que eu me sinto meio que perdido em relação a área de desenvolvimento, ainda mais agora com a entrada da tecnologia. Então eu tô mais perdido ainda.
+
+00;02;15;06 - 00;02;29;25
+Speaker 1
+Atualmente eu atuo com front end e presencialmente aqui no Rio de Janeiro e uma das perguntas que eu mais gostaria de entender como funciona o seu dia a dia.
+
+00;02;29;27 - 00;02;31;21
+Speaker 2
+Tá, na.
+
+00;02;31;23 - 00;02;55;02
+Speaker 1
+Verdade seria melhor porque é o seu dia a dia atualmente. Você tem ali o poder, Então é seria um pouco mais complexo, bem mais avançado pra mim. Nesse exato momento. O ideal seria como funciona um sócio e o dia a dia, como funcionava o seu dia a dia na área. Na época que você entrou no mercado? Seria mais um mais interessante no caso.
+
+00;02;55;04 - 00;03;18;27
+Speaker 2
+Tá? Pois é, eu acho que vai ser mais valioso pra ti também eu explicar como era o meu dia a dia, como deve, que eu já faço outras coisas que não tem nada a ver com der. Deixou consolidar a resposta na minha cabeça. Experimento tá a gente como é que funcionava sem algum ser bem detalhada de como é que era realmente o dia?
+
+00;03;18;29 - 00;03;46;28
+Speaker 2
+Quase todas as empresas que eu trabalhei a gente filma bem de manhã. Todas as empresas, na verdade tinha desde de manhã, então normalmente eu começava o dia na. Daí. Tipo 09h30, dez horas. Era bem aí na daí eu aproveitava pra dizer as coisas que eu tinha feito no dia anterior, dar um status de andamento e aproveitava também para a mente entender as prioridades do dia seguinte.
+
+00;03;46;28 - 00;04;06;22
+Speaker 2
+Você é o meu chefe, o meu líder. Precisava mudar prioridades de alguma coisa. Eu já aproveitava o momento dele pra tirar essa dúvida aí, com as tarefas estabelecidas por mim, que criava mechinhas do que eu queria fazer no meu dia, Por exemplo, eu tenho essas tarefas aqui durante uma sprint, tenho cinco tarefas para fazer na Sprint, ai eu ia me organizando.
+
+00;04;06;24 - 00;04;33;09
+Speaker 2
+Como é que eu entre distribuir essas tarefas ao longo das duas semanas da Sprint para conseguir vencer elas? Aí normalmente eu colocava mechinhas do dia que eu por exemplo, uma das tarefas era criar uma funcionalidade de upload de notas fiscais. Aí a primeira tarefa a ser criar o controller, depois iria criar o serviço, depois eu ia conectar com o WS, então permitia quebrando em pequenas tarefas que eu queria completar no dia.
+
+00;04;33;11 - 00;05;00;13
+Speaker 2
+E aí grande parte do meu dia era concentrada, tipo com o fone de ouvido, ouvindo a música e programando, né? Não tinha. E ali no começo já foi surgir a linha 2023 24. Então quando eu comecei eu fazia tudo na unha mesmo, então ia programando muitas vezes, encontrava problemas e passava algumas horas lendo documentação, lendo flow e debugar.
+
+00;05;00;16 - 00;05;24;00
+Speaker 2
+E eu? Eu tinha muito problema com reuniões, então reuniões atrapalhavam muito minha produtividade. Assim, por exemplo, eu tenho a Farmville. Hoje eu tenho a reunião contigo. Só uma. O resto todo da mente, a que eu bloqueei. Não deixei ninguém mais marcar reunião, porque se eu não tenho um foco antes, por períodos de foco muito longos, se eu fico tendo reuniões no meio, isso atrapalha a minha produtividade.
+
+00;05;24;00 - 00;05;48;26
+Speaker 2
+Então, por exemplo, agora, depois dessa reunião contigo, eu vou almoçar, Depois de almoçar eu tomo um café e volto a trabalhar. Se eu trabalhar por 30, 40 minutos, se tiver uma reunião logo em seguida, vai quebrar toda a minha produtividade da tarde. Sabe, eu demoro alguns minutos até entrar num estado de foco e depois que eu entro eu gosto de ficar umas duas, 03h00 naquele estado de foco e se eu volto a reunião no meio, isso quebra totalmente o meu fluxo de produtividade.
+
+00;05;48;26 - 00;06;14;16
+Speaker 2
+Eu sinto que o dia foi tipo uma merda, sem conseguir produzir nada. Eu gosto de ter longos ciclos quieta, sem ninguém me atrapalhando e sem reuniões, porque eu consigo entrar nesse estado mental de foco mais profundo. E eu fazia muito isso quando eu era dez e também organizava as reuniões do dia. Tentava sempre botar outro começo do dia pro final e manter longos períodos de foco concentrado assim, sem ter atrapalho no meio.
+
+00;06;14;19 - 00;06;34;23
+Speaker 2
+Normalmente eu desabilitar a notificação do slide quando tinha algo focar agora botava ali no modo tipo, sinalizava no times que eu estava focada e aí ficava programando, sabe? Mais ou menos isso. Não sei se que era esse tipo de resposta que criou.
+
+00;06;34;25 - 00;07;06;19
+Speaker 1
+Sim, foi basicamente referente ao mercado de trabalho, isso já inserido sem responder uma das minhas perguntas. E é item pra ser mais, mais amplo. E tem umas outras perguntas que vão começar de baixo pra cima que eu acabei ordenando ela daqui. E no caso ali, uma das que mais me importaria também é. Ver quais as fontes de informação atualmente eu utilizo a do deixando alguns poucos vídeos no YouTube que não me agrade.
+
+00;07;06;21 - 00;07;27;26
+Speaker 1
+Digitar tarefas do dia tá tão complexa como tinha que dar uma diminuída nos vídeos do YouTube e não tenho priorizado tanto o YouTube. Mas em relação a fontes de notícias, atualmente estou consumindo do Deschamps e algumas fontes de notícias do Google que eu pego avulsas. No seu caso, quais seriam as que você considera mais valiosa?
+
+00;07;27;28 - 00;07;56;11
+Speaker 2
+Eu Eu leio muito TechCrunch, não sei se conhece. Tem crush e um jornal lá dos Estados Unidos voltado para a área de TIC. Eles são bem mais o mundo de sapatos. Eles falam muito, muito sobre startup e literalmente eu tipo o jornal mais conhecido do mundo em questão de setup tecnologia. Eu gosto muito e o Twitter tem usado muito o Twitter Para mim, atualizar parece tudo que lança de novo.
+
+00;07;56;13 - 00;08;22;22
+Speaker 2
+Tudo que acontece. Assim, saio no Twitter, vai lá e eu uso. Mas aí tem que tomar muito cuidado em quem tu segue no Twitter que tem umas pessoas que só falam, só falam bobagem. Então sigam os perfis mais técnicos do Twitter e aí eu entro no meu twitter e dá uma lida assim por cima. Eu não gasto muito tempo para no máximo 30 minutos no Twitter.
+
+00;08;22;22 - 00;08;38;09
+Speaker 2
+No máximo mais. Mas por exemplo, quando sai o Open Cloud cara, antes de explodir na mídia, está em qualquer canal do YouTube. Eu já sabia o que era o Pink lá, porque a galera já estava falando. Eu fui testar. Parece que lá as coisas acontecem mais rápido. Leva.
+
+00;08;38;11 - 00;08;58;04
+Speaker 1
+E eu tenho uma grande dificuldade com o Twitter. Já tentei usar umas 30 milhões de vezes, mas não consigo me apegar o Twitter parece que eu entro no Twitter e que já vem com aquelas informações de menina de sutiã. Ah, eu não era, Só não consigo você utilizar, mas vou tentar dar uma forçada. Inclusive vou entrar no seu perfil de quem você segue lá pra mim.
+
+00;08;58;04 - 00;09;16;05
+Speaker 2
+Mas a diferença é que eu queria ter uma rede meio nojentinha, confesso. Eu não gosto de algumas coisas que ele recomenda, mas eu me policio pra dar like só em coisas relevantes. E aí começou a treinar meu algoritmo e ficou mais melhor. O princípio do Twitter é mais estreito e coesivo.
+
+00;09;16;05 - 00;09;20;06
+Speaker 1
+O LinkedIn está seguindo esse mesmo caminho, Está ficando cada vez mais esquisito.
+
+00;09;20;08 - 00;09;26;03
+Speaker 2
+Né? Aí já não consigo construir, Não gosto.
+
+00;09;26;05 - 00;09;54;13
+Speaker 1
+Referente a conhecimento técnico e eu vejo que você expõe para mim. Você é uma das flores da cor da curva em relação ao conhecimento técnico e partindo do princípio da da época que você começou na faculdade, como você adquiriu isso no ar? O que você tem de conhecimento técnico foi através de plataforma e foi lá no livro, foi de fato praticando?
+
+00;09;54;15 - 00;10;34;00
+Speaker 2
+Cara, foi um balanço de tudo. Taylor Eu estudava muito, mas muito mesmo. Assim como eu comecei a trabalhar na época da pandemia, eu tinha muito tempo livre, então eu trabalhava minhas 08h00 ali e todo o resto de tempo que sobrava. Como a gente não saía de casa, eu ficava estudando. Então eu li muitos livros, eu fiz muitos cursos online e eu criei muitos projetos pessoais, com muitos, muitos ali no meio, que de ramo eu devo ter, sem sacanagem, uns 150, 200 repositórios privados assim de projetos que eu fazia durante o dia.
+
+00;10;34;00 - 00;10;56;01
+Speaker 2
+Então praticava muito. Eu lembro que eu virava noites, vezes largava no trabalho, sei. Aí, tipo, ia conversar um pouco com a minha mãe, com o meu irmão e aí voltar pro meu quarto. Serviam vinho, Gostava de beber vinho, aí ficar tomando vinho e programando. E as vezes eu fazia um café ou fazia um chocolate quente, mas precisa. Gostava de fazer muita comida.
+
+00;10;56;01 - 00;11;26;13
+Speaker 2
+Não gosto de fazer umas coisinhas que eu ficar petiscando e com fone de ouvido com todo pau e programando, sabe? Aí, sei lá. Acho que eu aproveitei muito bem esse tempo assim e acabou que eu adquiri muito conhecimento. E aí no meu emprego, nos lugares que eu trabalhei, eu tive a oportunidade de trabalhar com projetos desafiadores também. Então lá no próprio Itaú eu mexi na parte de abertura de contas do Banco Tesla, da abertura de conta, viajei até abertura de conta de aplicativo novo.
+
+00;11;26;15 - 00;12;16;11
+Speaker 2
+Então era muitos desafios de escala. Muitas pessoas abrem conta diariamente no Itaú, milhares de contas por mês, muitos fluxos diferentes. Então eu tive que aprender muitas coisas para conseguir lidar com os desafios que tinha lá. Eu tive sorte de ter colegas que já eram mais experientes, conseguiram me ensinar alguns estilos de arquitetura. Aprendi muito sobre Trevenant, sobre orquestração dos microservices, sobre a WS, sobre o uso de belas artes, sobre questões que não só aprendi lá, me acalmou por causa que era a realidade lá do projeto e esses pais que falam em função assim de salário, de ter trabalhado com pessoas que eram muito boas tecnicamente, me ensinaram e de timing também.
+
+00;12;16;11 - 00;12;33;20
+Speaker 2
+E de ter pegado essa área quando eu poderia, eu pude usar todo o tempo que sobrava para estudar. Basicamente isso. Resumindo, hoje houve um tempo triste em que eu não consigo mais estudar tanto, sabe? Não sobra mais muito tempo para estudar como eu fazia antes.
+
+00;12;33;22 - 00;12;36;14
+Speaker 1
+Para mim, você sabe tudo de tecnologia.
+
+00;12;36;17 - 00;12;40;16
+Speaker 2
+Para bem longe disso.
+
+00;12;40;19 - 00;13;12;15
+Speaker 1
+Com certeza. Quem olha você assim por falar e pensar que eu estou na cabeça, mas referente aos trabalhos que você teve, faz um pouco parte dessa pergunta que eu fiz. Eu vi que você trabalhou em empresas consideravelmente gigantes. Como você conseguiu o acesso a essas empresas com esse tipo? Achou vaga no LinkedIn, Se inscreveu ou você teve contatos que trouxeram?
+
+00;13;12;18 - 00;13;32;26
+Speaker 2
+Foi no caso da Stone? Foi. Eu achei a vaga no LinkedIn e me inscrevi Aí uma coisa muito mais do que a que acontece depois que ficamos numa empresa grande, é que a partir do momento que tu tem esse selinho no teu currículo, fica muito mais fácil para os outros. Então, por exemplo, eu te dar um exemplo o que os recrutadores do Itaú fazem?
+
+00;13;32;28 - 00;14;05;20
+Speaker 2
+O recrutador do Itaú que tá buscando talentos. Ele vai lá nos filtros do LinkedIn e ele procura por pessoas que trabalham em Bradesco, pessoas que trabalham na Estônia, pessoas que trabalham no país e pessoas que trabalham no PayPal porque eles querem pessoas que já tenham no real do mercado deles. Pô, melhor do que trazer um leve bom e trazer um leve bom, e eu trabalhei em banco, você já tem aquele conhecimento, Então eu entrei na Estônia pelo LinkedIn, então eu me candidatei lá de forma normal, na raça, e aí dei sorte de 1000 me contratarem.
+
+00;14;05;22 - 00;14;24;21
+Speaker 2
+Só que depois que eu entrei na Estônia, o Itaú entrou em contato comigo. Uma recrutadora do Itaú falou que estava buscando perfis aqui no No LinkedIn encontrei o teu aí, André. Perguntei depois como é que ela encontrou o meu? Foi lá. Eu busco por perfis que trabalhasse na Estônia, que a história não sei se tu sabe, mas é a maior fintech aqui do Brasil.
+
+00;14;24;21 - 00;14;44;20
+Speaker 2
+Eles são super referência em conhecimento financeiro. Se. E aí uma coisa levou a outra. Quando eu entrei no Mercado Livre também, o recrutador falou a gente gosta de dentro do Itaú, porque o servo do Itaú tem conhecimento de nuvem e lá no Itaú eles incentivam muito estudar cloud. E aí eu fui para o Mercado Livre, fui prospectado também.
+
+00;14;44;20 - 00;15;04;13
+Speaker 2
+Então eles entraram em contato comigo porque o meu perfil caiu ali nos filtros e depois que tu conhece, consegue uma. Fica mais fácil de conseguir as outras pessoas. É só a primeira coisa mais difícil. Depois foi quando eu conseguiria ir para o iFood sem problemas também. A gente já me abordou e o Uber já entrou em contato comigo também.
+
+00;15;04;14 - 00;15;10;21
+Speaker 2
+Google já entrou em contato, depois tu cai no radar ali do LinkedIn deles. Aí se for, vai.
+
+00;15;10;23 - 00;15;16;19
+Speaker 1
+Acaba que usa o sua visibilidade também. A internet influencia bastante nisso?
+
+00;15;16;21 - 00;15;20;07
+Speaker 2
+Sim, ajuda também ajuda bastante.
+
+00;15;20;10 - 00;15;58;08
+Speaker 1
+E basicamente são todas as perguntas que eu queria saber esclarecer. No caso, talvez está faltando 1A1 que você falou da época de que quando se iniciou e também gostaria de entender atualmente, quais são os ambientes que você frequenta online. Porque, por exemplo, eu Eu quando entrei na área de fato para trabalhar de fato, eu não tinha muitos conhecidos que poderiam conversar comigo sobre tecnologia e com isso eu criei uma comunidade que atualmente tem um pouco mais de 1000 desenvolvedores e acaba que a gente.
+
+00;15;58;08 - 00;16;15;15
+Speaker 1
+A ideia inicial era pra gente conversar sobre tecnologia, mas acaba que a galera é muito dispersa, então acaba comendo tanta, tanta nem olho tanto grupo lá. No seu caso, como você se conecta assim com as pessoas? Converso com as pessoas, isso. Se você faz isso, não faço.
+
+00;16;15;17 - 00;16;37;08
+Speaker 2
+Não faço isso, não faço porque eu não tenho mais tempo para ficar interagindo em comunidade. E quando eu digo eu não tenho tempo, né? Tipo, eu sou uma pessoa muito importante, as pessoas não mais mente, mas é literalmente viver o dia a dia. Agora com a empresa é muito, muito trabalho, muito trabalho, porque eu trabalho 12, 14 meses.
+
+00;16;37;10 - 00;17;02;29
+Speaker 2
+Aí tipo, chega o final do mês, horas livres. A última coisa que eu quero é falar em comunidade justamente que eu quero aqui, Então eu não tenho, não tenho acompanhado, mas no começo eventos de tecnologia me ajudaram a conhecer algumas pessoas. Então eu fui em alguns eventos e acabei fazendo bons amigos e o canal no canal de atrair as pessoas até mim.
+
+00;17;02;29 - 00;17;30;04
+Speaker 2
+Naturalmente, eu não precisava ir atrás das pessoas e entrar nas comunidades, tipo as comunidades me chamavam para eu entrar e aí ficou mais fácil assim no começo. Então uma acaba que eu citei o chat acadêmico tráfego orgânico das comunidades, mas uma comunidade que eu gosto muito, pois que eu não sei se entende, mas não sei se quer ir para o backend, que é uma comunidade do Java Java.
+
+00;17;30;04 - 00;17;53;16
+Speaker 2
+Eu sou Java lá de São Paulo. Eles são muito bons, eles são muito técnicos. Eles tem um contato muito próximo com a Oracle, tem vários Java Champions lá ainda, tipo a galera não é dada a fofoca em relação do uso de trocar conhecimento técnico, oportunidade mesmo. É uma comunidade que eu gostava bastante de fazer parte. Sou Java.
+
+00;17;53;19 - 00;17;55;03
+Speaker 1
+Eu não tenho que.
+
+00;17;55;05 - 00;18;12;24
+Speaker 2
+Por Front-End. Eu não conheço nenhum ataque que era bom assim que tem uma situação entre as vezes é bem isso que se falou, é só baboseira que o pessoal fala, tipo não tem nada relevante a do som Java não, eles são das antigas, então tem um monte de gente que é.
+
+00;18;12;26 - 00;18;25;04
+Speaker 2
+Tipo da época antiga da programação, tipo 15 anos de experiência, 20 anos. E a galera, eles, eles, Eles incentivam troca de conhecimento.
+
+00;18;25;06 - 00;18;57;20
+Speaker 1
+Shell e se você pudesse me dar uma dica referente a área de tecnologia, pensando mais na nossa questão que a gente tem agora de inteligência artificial, por exemplo, eu utilizo inteligência artificial aqui no trabalho, então praticamente quase nunca eu desço no código, porque o negócio absurdo que sei lá, eu não sei explicar. Se você pudesse me dar uma dica no que focar, porque eu sempre faço, todo ano faço um roadmap da minha vida, então eu boto onde eu estou e faço metas.
+
+00;18;57;23 - 00;19;09;15
+Speaker 1
+Só que esse baque que eu tive agora me deu uma queda e eu não sei para onde eu conseguiria seguir. Não. No caso, morte que eu tinha já deixou de ser um norte porque eu não sei como vai ser o futuro.
+
+00;19;09;17 - 00;19;47;25
+Speaker 2
+Tá, então a gente fala que eu estou fazendo. Eu acho que é bem complexo também. Me deu um baque. Eu também fico na dúvida sobre o futuro da nossa área e até as vezes eu não comento muito sobre isso, porque a gente por ter uma visibilidade muito grande e ter uma responsabilidade muito grande do que a gente fala, toma cuidado, vai falar, Mas o que eu enxergo assim, eu acho que a gente está com uma grande janela de oportunidade para quem for world adopter das e as, porque é o que eu sinto até hoje no canal tem uma galera que ainda está renegada com o uso da EAD, tipo não quer usar, acha que é
+
+00;19;47;25 - 00;20;12;12
+Speaker 2
+ruim, que o código é ruim, não sei quê, Só que não é mais essa realidade. Tipo nos últimos três, quatro meses. Cara, os modelos avançaram. Absurdo! É bem absurdo o que eles estão fazendo. Dá pra fazer muitas coisas do tipo. Impressionante. Só que ainda assim tem uma galera que tá renegada porque não tá enxergando esse essa vantagem. O que eu tenho feito?
+
+00;20;12;12 - 00;20;52;17
+Speaker 2
+Eu tenho aprendido a usar de uma maneira inteligente para uma análise estruturada, não só jogar pronto, direitinho, tipo, literalmente eu aprendi técnicas de como montar o melhor Pronto-Socorro, utilizar as skills, como usar NCP, como usar tools, como configurar um workflow usando o Cloud mais linear, mais não sei quê para fazer coisas mais complexas, combinando várias ferramentas já sabe e criando o workflow por pipelines de criar e eu acho que aprender a usar isso tipo agora vai estar muito na frente dos outros deveres que estão tipo ou dizendo que é ruim ou usando o Salah.
+
+00;20;52;19 - 00;21;25;18
+Speaker 2
+Ela que o universo está ligado com o padrão de universo cult. Para mim é coisa do século passado, é o básico e o básico que foi ridículo que de de básico se comparar com o que o core de cloud já está conseguindo fazer. Então aprender o que são skills, o que são atitudes, como usar os eps, configurar os eps, fazer scripts que os próprios criar workflows dentro do teu do teu uso diário, tipo maiar, jogar um prompt para outra para pegar o resultado, jogar para outro, quem sabe essas coisas mais complexas.
+
+00;21;25;18 - 00;21;30;00
+Speaker 2
+Acho que é sair muito da frente.
+
+00;21;30;02 - 00;21;45;11
+Speaker 1
+Bom, e pensando nisso, duas perguntas se você não soubesse nada sobre tecnologia, onde você procuraria primeiro documentação em Google ou algum lugar específico, uma plataforma ou sei lá, no YouTube em algum canal específico.
+
+00;21;45;14 - 00;22;13;24
+Speaker 2
+E você não soubesse nada, eu não soubesse nada. Eu iria no meu canal do Gustavo Guanabara. Primeiro que eu acho que a base continua sendo relevante e é. Um E aí eu ia combinar, talvez maluco ou meio demente. Sim, fazer cursos e é usar YA para ajudar a estudar também. Uma coisa que eu tenho feito, até esqueci de falar e pegar textos.
+
+00;22;13;24 - 00;22;36;20
+Speaker 2
+Então eu tenho lido alguns artigos, então a gente aqui, o acadêmico, aí eu jogo o artigo notebook, ali eu jogo no Spotify e eu peço para ir gerar um podcast sobre aquele artigo para mim ou para ela, literalmente. Só transcrever o artigo em áudio. E aí, ao mesmo tempo que eu vou lendo o artigo, eu estou ouvindo no ouvido sim, E aí, consumindo mesmo.
+
+00;22;36;20 - 00;22;43;12
+Speaker 2
+Olha dois canais E aí a absorção de conteúdo tem sido muito mais profundo.
+
+00;22;43;15 - 00;23;12;07
+Speaker 1
+Interessante e acho que é só isso, só isso. Todos. Acho que realmente não vem nenhum, nem nenhuma outra pergunta também te agradecer mais uma vez por ter disponibilizado esse tempo comigo. Muito obrigado e espero no futuro eu esteja. Eu ter a mesma relevância que você tem para a gente poder, se contrário, falar que você me ajudou bastante e a gente possa comemorar esse.
+
+00;23;12;09 - 00;23;23;05
+Speaker 2
+Página, com certeza. Mas a gente pode se encontrar em eventos ou qualquer coisa assim. Vai ser um prazer enorme para.
+
+00;23;23;07 - 00;23;26;28
+Speaker 2
+Deixar. Muito obrigado pela translado. Imagina a mulher.
+
+00;23;27;03 - 00;23;30;16
+Speaker 1
+Que tava dando umas pancada, mas deu pra entender tudo.
+
+00;23;30;18 - 00;23;45;10
+Speaker 2
+Que é E se eu puder ajudar com outra coisa, me chama lá também. Eu demoro para responder, mas eu respondo tá, Eu Eu gosto bastante de ajudar. Se tiver alguma outra coisa que tu precisar no meu help, só me chamar.
+
+00;23;45;12 - 00;23;47;09
+Speaker 1
+Bem. Muito obrigado.
+
+00;23;47;12 - 00;23;48;17
+Speaker 2
+Valeu, Jurandir!
+
